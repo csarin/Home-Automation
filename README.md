@@ -3,7 +3,7 @@
 # HOME AUTOMATION
 <small>Implementaciones de dispositivos para un sistema de automatización casero</small>
 
-![HomeGenie Dashboard](https://genielabs.github.io/HomeGenie/images/docs/dashboard_page_01.jpg)
+![NodeMCU](https://commons.wikimedia.org/wiki/File:Nodemcu_amica_bot_02.png)
 
 Control de temperatura y humedad
 ================================
