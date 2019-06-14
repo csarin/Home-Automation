@@ -13,16 +13,16 @@
 
 //REGION: Configuración wireless
 
-const char* ssid="tocateloswebos";
-const char* password = "TOCA$mela1";
+const char* ssid="";
+const char* password = "";
 const char* namehost="NODE1";
 const char* clientname = "NODE1";
 
 //REGION: MQTT Configuración de la conexión
 
-const char* mqtt_server = "192.168.2.178"; 
-const char* mqtt_user = "admin"; 
-const char* mqtt_password = "mypw91885"; 
+const char* mqtt_server = ""; 
+const char* mqtt_user = ""; 
+const char* mqtt_password = ""; 
 
 //REGION: Conectividad
 
