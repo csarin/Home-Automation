@@ -15,4 +15,5 @@ Aquí dejo un ejemplo sobre como recibir la información del sensor por un broke
 Control de temperatura y humedad
 ================================
 
-* **Implementación**: [NodeMCU_DHT22.ino](https://github.com/csarin/Home-Automation/blob/master/NodeMCU/NodeMCU_DHT22.ino)
+* **Implementación para red local**: [NodeMCU_DHT22.ino](https://github.com/csarin/Home-Automation/blob/master/NodeMCU/NodeMCU_DHT22.ino)
+* **Implementación con servicio no-ip**: [NodeMCU_DHT22.ino](https://github.com/csarin/Home-Automation/blob/master/NodeMCU/NodeMCU_DHT22_with_noip_service.ino)
